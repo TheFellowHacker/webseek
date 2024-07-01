@@ -112,27 +112,6 @@ Avoid adding & to the run_katana_js "$target" function call. Running this functi
 [MIT](https://github.com/hackytam/webseek/blob/main/LICENSE) license.
 
 
-## Acknowledgements
-This script leverages the capabilities of several open-source tools. Special thanks to the creators and contributors of the following projects :
-- [gospider](https://github.com/jaeles-project/gospider)
-- [waybackurls](https://github.com/tomnomnom/waybackurls)
-- [hakrawler](https://github.com/hakluke/hakrawler)
-- [gau](https://github.com/lc/gau)
-- [waymore](https://github.com/xnl-h4ck3r/waymore)
-- [katana](https://github.com/projectdiscovery/katana)
-- [ParamSpider](https://github.com/devanshbatham/ParamSpider)
-- [Parameth](https://github.com/maK-/parameth)
-- [roboxtractor](https://github.com/s0md3v/roboxtractor)
-- [github-endpoints](https://github.com/gwen001/github-endpoints)
-- [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
-- [subjs](https://github.com/lc/subjs)
-- [unfurl](https://github.com/tomnomnom/unfurl)
-- [gf](https://github.com/tomnomnom/gf)
-- [mantra](https://github.com/mantra/mantra)
-- [SecretFinder](https://github.com/m4ll0k/SecretFinder)
-- [uro](https://github.com/verovaleros/uro)
-
-These tools play a crucial role in the functionality of this script, and their authors deserve recognition for their hard work and dedication.
 ## 🔗 Social Links
 
                                                  
@@ -144,4 +123,4 @@ These tools play a crucial role in the functionality of this script, and their a
 </p>
 
 ``` ```
-                                                            Made with ❤️ by @7h47-f3ll0w-h4ck3r
+                                                            Made with ❤️ by **@7h47-f3ll0w-h4ck3r**
