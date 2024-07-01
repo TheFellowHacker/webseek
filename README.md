@@ -19,6 +19,9 @@
 
 
 ## Prerequisites
+- You will need to configure your GitHub tokens in a file named token.txt using the following format: GITHUB_TOKEN=GITHUB_TOKEN1_HERE and so on for github-endpoint discovery. 
+- Additionally, if you have your own parameter list, you can modify medium.txt accordingly.
+
 Ensure the following tools are installed and accessible in your system's PATH -
 
 * **gospider -** https://github.com/jaeles-project/gospider
