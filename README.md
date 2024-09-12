@@ -126,4 +126,4 @@ Avoid adding & to the run_katana_js "$target" function call. Running this functi
 </p>
 
 ``` ```
-                                                            Made with ❤️ by **@7h47-f3ll0w-h4ck3r**
+                                                            Made with ❤️ by **@7h3-f3ll0w-h4ck3r**
