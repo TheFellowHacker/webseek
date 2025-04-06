@@ -148,7 +148,7 @@ echo ""
 run_gospider() {
     local url="$1"
     echo "[*] Running gospider for: ${CYAN}$url${RESET}"
-    gospider -s "$url" --js -t 20 -d 2 --sitemap --robots -w -r | grep -oP '(http|https)://[^ ]+' >> "$result_dir/URLS/gospider_urls.txt"
+    gospider -s "$url" -t 20 -d 2 --sitemap --robots -w -r | grep -oP '(http|https)://[^ ]+' >> "$result_dir/URLS/gospider_urls.txt"
     log "Gospider scan completed"
     check_command "gospider for $url" ""
 }
