@@ -196,7 +196,7 @@ run_waymore() {
 run_katana() {
     local url="$1"
     echo "[*] Performing passive scan with Katana for: ${CYAN}$url${RESET}"
-    katana -u "$url" -ps -silent -pss waybackarchive,commoncrawl,alienvault -o "$result_dir/URLS/katana_passive_urls.txt" > /dev/null 2>&1
+    katana -u "$url" -silent -o "$result_dir/URLS/katana_passive_urls.txt" > /dev/null 2>&1
     check_command "Katana passive for $url" ""
     log "Passive scan with Katana completed"
 
